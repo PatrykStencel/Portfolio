@@ -30,3 +30,10 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 * Projekt Końcowy
 
 </center>
+
+
+Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy : 
+
+
+## Moje projekty
+
