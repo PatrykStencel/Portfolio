@@ -41,6 +41,7 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 *
 *
 
+## Używane technologie
 
 ## Moje projekty
 
