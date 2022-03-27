@@ -52,3 +52,7 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 *
 *
 
+## Kontakt
+
+* Kontakt mailowy : Patryk.Stencel1994@gmail.com
+*  Linkedin [Patryk Stencel](https://www.linkedin.com/in/patrykst/)
