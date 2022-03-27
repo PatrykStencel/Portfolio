@@ -21,7 +21,7 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 ## Moduły opracowane podczas kursu
 <center>
 
-*Podstawy Programowania
+* Bug Reports
 *Podstawy Baz Danych
 *Techniki Projektowania Testw
 *Zajęcia z Testowania
