@@ -22,11 +22,11 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 <center>
 
 * Bug Reports
-*Podstawy Baz Danych
-*Techniki Projektowania Testw
-*Zajęcia z Testowania
-*Selenium WebDriver
-*BDD
-*Projekt Końcowy
+* Podstawy Baz Danych
+* Techniki Projektowania Testw
+* Zajęcia z Testowania
+* Selenium WebDriver
+* BDD
+* Projekt Końcowy
 
 </center>
