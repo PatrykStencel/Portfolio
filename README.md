@@ -34,6 +34,21 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 
 Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy : 
 
+*
+*
+*
+*
+*
+*
+
 
 ## Moje projekty
+
+*
+*
+*
+*
+*
+*
+*
 
