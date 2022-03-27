@@ -21,8 +21,12 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 ## Moduły opracowane podczas kursu
 <center>
 
-[Podstawy Programowania]| [Podstawy Baz Danych](Podstawy Baz Danych) | [Techniki Projektowania Testw](Techniki Projektowania Testów) |
-[Zajęcia z Testowania](Zajęcia z Testowania) | [Selenium WebDriver](Selenium WebDriver) | [BDD](BDD) |
-[Projekt Końcowy](Projekt Końcowy)
+Podstawy Programowania]
+Podstawy Baz Danych
+Techniki Projektowania Testw
+Zajęcia z Testowania
+Selenium WebDriver
+BDD
+Projekt Końcowy
 
 </center>
