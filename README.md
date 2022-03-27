@@ -17,3 +17,12 @@ Ukończyłem trzymiesięczny kurs "Tester Manualny" potwierdzonym certyfikatem p
 Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowoli mi uczestniczyć w projektach zwinnych:
 
 ![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/Scrum.jpg?raw=true)
+
+## Moduły opracowane podczas kursu
+<center>
+
+[Podstawy Programowania](Podstawy Programowania) | [Podstawy Baz Danych](Podstawy Baz Danych) | [Techniki Projektowania Testw](Techniki Projektowania Testów) |
+[Zajęcia z Testowania](Zajęcia z Testowania) | [Selenium WebDriver](Selenium WebDriver) | [BDD](BDD) |
+[Projekt Końcowy](Projekt Końcowy)
+
+</center>
