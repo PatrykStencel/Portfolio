@@ -45,6 +45,7 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 
 ## Moje projekty
 
+* Indywidualny test portalu Allegro.pl - (Repozytoriumm)[https://github.com/PatrykStencel/Indywidualny-projekt---Test-Allegro.pl]
 *
 *
 *
