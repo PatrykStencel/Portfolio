@@ -42,6 +42,10 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 
 
 ## Używane technologie
+* TestRail
+* Jira
+* Selenium
+* Postman
 
 ## Moje projekty
 
