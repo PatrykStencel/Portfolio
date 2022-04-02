@@ -23,7 +23,7 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 
 * Podstawy programowania
 * Podstawy Baz Danych
-* Techniki Projektowania Testw
+* Techniki Projektowania Testów
 * Zajęcia z Testowania
 * Selenium WebDriver
 * BDD
