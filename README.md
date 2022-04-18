@@ -50,7 +50,7 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 ## Moje projekty
 
 * Indywidualny test portalu Allegro.pl - [Repozytorium](https://github.com/PatrykStencel/Indywidualny-projekt---Test-Allegro.pl)
-
+* Inwywidualny test automatyczny InsuranceCO - [Link](https://github.com/PatrykStencel/AutomaticTest.git)
 
 ## Kontakt
 
