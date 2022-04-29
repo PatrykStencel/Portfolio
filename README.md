@@ -17,7 +17,7 @@ Ukończyłem trzymiesięczny kurs "Tester Manualny" potwierdzonym certyfikatem p
 
 Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowoli mi uczestniczyć w projektach zwinnych:
 
-![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/Scrum.jpg?raw=true)
+![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/scrum.png)
 
 ## Moduły opracowane podczas kursu
 <center>
@@ -42,7 +42,7 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 * [Selenium IDE - Kompletny kurs od podstaw [2021]](https://www.udemy.com/course/selenium-ide-kompletny-kurs-od-podstaw/)
 
 
-## Używane technologie
+## Używane narzędzia
 * TestRail
 * Jira
 * Selenium
