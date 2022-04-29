@@ -12,8 +12,8 @@ Cześć, nazywam się Patryk Stencel, jestem początkującym testerem oprogramow
 ## Kurs Software Development Academy
 Ukończyłem trzymiesięczny kurs "Tester Manualny" potwierdzonym certyfikatem przez Software Development Academy. Przez 105 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę z następujących tematów:
 
-![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/tester.jpg?raw=true)
-![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/dyplom2str.png)
+![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/1.png)
+![image](https://github.com/PatrykStencel/Portfolio/blob/main/img/2.png)
 
 Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowoli mi uczestniczyć w projektach zwinnych:
 
