@@ -34,15 +34,6 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 </center>
 
 
-Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy : 
-
-* Praktyczny kurs testowania oprogramowania [certyfikat](https://www.udemy.com/certificate/UC-3b1ffbe2-5ce3-4e2a-92d7-44646d2c9d1e/)
-* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
-* [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
-* [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/)
-* [Selenium IDE - Kompletny kurs od podstaw [2021]](https://www.udemy.com/course/selenium-ide-kompletny-kurs-od-podstaw/)
-
-
 ## Używane narzędzia
 * TestRail
 * Jira
