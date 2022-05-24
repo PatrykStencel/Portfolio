@@ -22,20 +22,21 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 ## Moduły opracowane podczas kursu
 <center>
 
-* Podstawy programowania
-* Podstawy Baz Danych
-* Techniki Projektowania Testów
-* Zajęcia z Testowania
-* Selenium WebDriver
-* BDD
+* Wprowadzenie do testowania
+* Techniki projektowania testów
+* Testowanie w oparciu o ryzyko
+* Testowanie wspierane narzędziami
+* Bazy danych
+* Automatyzacja testów 
 * Projekt Końcowy
+* Przygotowanie do ISTQB Foundation Level
 
 </center>
 
 
 Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy : 
 
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+* Praktyczny kurs testowania oprogramowania [certyfikat](https://www.udemy.com/certificate/UC-3b1ffbe2-5ce3-4e2a-92d7-44646d2c9d1e/)
 * [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 * [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 * [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/)
@@ -50,10 +51,10 @@ Dodatkowo swoją wiedzę uzupełniłem kursami na portalu Udemy :
 
 ## Moje projekty
 
-* Indywidualny test portalu Allegro.pl - [Repozytorium](https://github.com/PatrykStencel/Indywidualny-projekt---Test-Allegro.pl)
+* Indywidualny test portalu Allegro.pl - [Link](https://github.com/PatrykStencel/Indywidualny-projekt---Test-Allegro.pl)
 * Inwywidualny test automatyczny InsuranceCO - [Link](https://github.com/PatrykStencel/AutomaticTest.git)
 
 ## Kontakt
 
 * Kontakt mailowy : Patryk.Stencel1994@gmail.com
-*  Linkedin [Patryk Stencel](https://www.linkedin.com/in/patrykst/)
+* LinkedIn [Patryk Stencel](https://www.linkedin.com/in/patrykst/)
