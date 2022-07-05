@@ -40,10 +40,6 @@ Dodatkowo podczas kursu brałem udział w dwudniowym szkoleniu "Scrum" co pozowo
 * Selenium
 * Postman
 
-## Moje projekty
-
-* Indywidualny test portalu Allegro.pl - [Link](https://github.com/PatrykStencel/Indywidualny-projekt---Test-Allegro.pl)
-* Inwywidualny test automatyczny InsuranceCO - [Link](https://github.com/PatrykStencel/AutomaticTest.git)
 
 ## Kontakt
 
